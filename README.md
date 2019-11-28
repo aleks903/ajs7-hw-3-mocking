@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/44ioedfe7vn0htn2?svg=true)](https://ci.appveyor.com/project/aleks903/homeworks-ajs7)
+[![Build status](https://ci.appveyor.com/api/projects/status/hd4xk3yqo684069h?svg=true)](https://ci.appveyor.com/project/aleks903/ajs7-hw-3-mocking)
